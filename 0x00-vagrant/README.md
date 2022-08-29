@@ -1,0 +1,3 @@
+## A simple README
+
+Trying out vagrant for the first time and it's super exiciting...
